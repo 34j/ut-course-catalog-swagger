@@ -190,3 +190,4 @@ components:
               [日本十進分類表(NDC)](https://www.libnet.pref.okayama.jp/shiryou/ndc/index.htm)に従う
             type: string
             example: 410
+
